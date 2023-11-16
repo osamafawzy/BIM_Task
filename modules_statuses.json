@@ -1,0 +1,12 @@
+{
+    "Common": true,
+    "Admin": true,
+    "Employee": false,
+    "Client": true,
+    "Category": false,
+    "School": false,
+    "Notification": false,
+    "Country": false,
+    "Parents": false,
+    "Transaction": true
+}
